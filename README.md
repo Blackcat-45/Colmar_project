@@ -1,2 +1,2 @@
 # Colmar_project
-In this Codecademy project I will create a responsive website based on provided wireframes.
+This is the final Codecademy project, where I created a responsive website based on provided wireframes.
